@@ -35,8 +35,8 @@
           <th>Profile Picture</th>
           <th>Mobile</th>
           <th>Salary</th>
-         
-          
+
+
         </tr>
       </thead>
       {% for t in teachers %}
@@ -46,11 +46,11 @@
         <td> <img src="{% static t.profile_pic.url %}" alt="Profile Pic" height="40px" width="40px" /></td>
         <td>{{t.mobile}}</td>
         <td>{{t.salary}}</td>
-        </tr>
+      </tr>
       {% endfor %}
     </table>
   </div>
 </div>
 
 <br><br><br><br><br><br>
-{% endblock content %}
+<!-- {% endblock content %} -->
