@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Quiz
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 ---
@@ -77,3 +78,6 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 Any suggestion and feedback is welcome. You can message me on facebook
 - [Contact on Facebook](https://fb.com/sumit.luv)
 - [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+=======
+# online-quiz-app
+>>>>>>> 411ea1f2310ef8d0a29f7b9338dc6028fdf560de
